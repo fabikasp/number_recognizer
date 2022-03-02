@@ -1,0 +1,10 @@
+/venv/
+
+resources/test_images
+resources/weights_input_hidden.npy
+resources/weights_hidden_output.npy
+
+/.idea/
+
+/__pycache__/
+/neural_network/__pycache__/
