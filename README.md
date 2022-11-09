@@ -1,69 +1,69 @@
 # NumberRecognizer
 
-App which recognizes handwritten numbers on images.
+App zur automatischen Erkennung von Ziffern auf Bildern.
 
 ## Installation
 
 ### Backend
 
-1. Navigate into backend directory of cloned repository
-2. Set up Flask environment
-3. Install requirements
-4. Start Flask app
+1. In das backend-Verzeichnis des geklonten Repositorys navigieren
+2. Flask-Umgebung aufsetzen
+3. Abhängigkeiten in [requirements.txt](./backend/requirements.txt) installieren
+4. Flask-App starten
 
 ### Frontend
 
-1. Navigate into frontend directory of cloned repository
-2. Set up Flutter environment
-3. Run `flutter pub get`
-4. Run `flutter run` after starting the backend to execute application on an attached device
+1. In das backend-Verzeichnis des geklonten Repositorys navigieren
+2. Flutter-Umgebung aufsetzen
+3. `flutter pub get` ausführen
+4. `flutter run` nach dem Starten des Backends ausführen, um App auf einem verknüpften Gerät zu starten
 
 ## Used Software
 
 <table>
   <tr>
     <td><a href="https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork">makeyourownneuralnetwork</a></td>
-    <td>by <a href="https://github.com/makeyourownneuralnetwork">makeyourownneuralnetwork</a></td>
-    <td>licensed under <a href="https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork/blob/master/LICENSE">GNU General Public License v2.0</a>
+    <td>von <a href="https://github.com/makeyourownneuralnetwork">makeyourownneuralnetwork</a></td>
+    <td>lizenziert mit <a href="https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork/blob/master/LICENSE">GNU General Public License v2.0</a>
   </tr>
   <tr>
     <td><a href="https://github.com/pallets/flask">Flask</a></td>
-    <td>by <a href="https://github.com/pallets">Pallets</a></td>
-    <td>licensed under <a href="https://github.com/pallets/flask/blob/main/LICENSE.rst">BSD 3-Clause "New" or "Revised" License</a>
+    <td>von <a href="https://github.com/pallets">Pallets</a></td>
+    <td>lizenziert mit <a href="https://github.com/pallets/flask/blob/main/LICENSE.rst">BSD 3-Clause "New" or "Revised" License</a>
   </tr>
   <tr>
     <td><a href="https://github.com/python-pillow/Pillow">Pillow</a></td>
-    <td>by <a href="https://github.com/python-pillow">Pillow</a></td>
-    <td>licensed under <a href="https://github.com/python-pillow/Pillow/blob/main/LICENSE">HPND License</a>
+    <td>von <a href="https://github.com/python-pillow">Pillow</a></td>
+    <td>lizenziert mit <a href="https://github.com/python-pillow/Pillow/blob/main/LICENSE">HPND License</a>
   </tr>
   <tr>
     <td><a href="https://github.com/numpy/numpy">NumPy</a></td>
-    <td>by <a href="https://github.com/numpy">NumPy</a></td>
-    <td>licensed under <a href="https://github.com/numpy/numpy/blob/main/LICENSE.txt">BSD 3-Clause "New" or "Revised" License</a>
+    <td>von <a href="https://github.com/numpy">NumPy</a></td>
+    <td>lizenziert mit <a href="https://github.com/numpy/numpy/blob/main/LICENSE.txt">BSD 3-Clause "New" or "Revised" License</a>
   </tr>
   <tr>
     <td><a href="https://github.com/scipy/scipy">SciPy</a></td>
-    <td>by <a href="https://github.com/scipy">SciPy</a></td>
-    <td>licensed under <a href="https://github.com/scipy/scipy/blob/main/LICENSE.txt">BSD 3-Clause "New" or "Revised" License</a>
+    <td>von <a href="https://github.com/scipy">SciPy</a></td>
+    <td>lizenziert mit <a href="https://github.com/scipy/scipy/blob/main/LICENSE.txt">BSD 3-Clause "New" or "Revised" License</a>
   </tr>
   <tr>
     <td><a href="https://github.com/flutter/flutter">Flutter</a></td>
-    <td>by <a href="https://github.com/flutter">Flutter</a></td>
-    <td>licensed under <a href="https://github.com/flutter/flutter/blob/master/LICENSE">BSD 3-Clause "New" or "Revised" License</a>
+    <td>von <a href="https://github.com/flutter">Flutter</a></td>
+    <td>lizenziert mit <a href="https://github.com/flutter/flutter/blob/master/LICENSE">BSD 3-Clause "New" or "Revised" License</a>
   </tr>
   <tr>
     <td><a href="https://github.com/devoncarew/cupertino_icons">Cupertino Icons</a></td>
-    <td>by <a href="https://github.com/devoncarew">devoncarew</a></td>
-    <td>licensed under <a href="https://github.com/devoncarew/cupertino_icons/blob/master/LICENSE">MIT License</a>
+    <td>von <a href="https://github.com/devoncarew">devoncarew</a></td>
+    <td>lizenziert mit <a href="https://github.com/devoncarew/cupertino_icons/blob/master/LICENSE">MIT License</a>
   </tr>
   <tr>
     <td><a href="https://github.com/flutter/plugins">Flutter plugins</a></td>
-    <td>by <a href="https://github.com/flutter">Flutter</a></td>
-    <td>licensed under <a href="https://github.com/flutter/plugins/blob/main/LICENSE">BSD 3-Clause "New" or "Revised" License</a>
+    <td>von <a href="https://github.com/flutter">Flutter</a></td>
+    <td>lizenziert mit <a href="https://github.com/flutter/plugins/blob/main/LICENSE">BSD 3-Clause "New" or "Revised" License</a>
   </tr>
   <tr>
     <td><a href="https://github.com/dart-lang/http">http</a></td>
-    <td>by <a href="https://github.com/dart-lang">Dart</a></td>
-    <td>licensed under <a href="https://github.com/dart-lang/http/blob/master/LICENSE">BSD 3-Clause "New" or "Revised" License</a>
+    <td>von <a href="https://github.com/dart-lang">Dart</a></td>
+    <td>lizenziert mit <a href="https://github.com/dart-lang/http/blob/master/LICENSE">BSD 3-Clause "New" or "Revised" License</a>
   </tr>
 </table>
