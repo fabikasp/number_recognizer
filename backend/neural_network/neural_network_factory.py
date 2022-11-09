@@ -1,3 +1,8 @@
+/*!
+  * Based on makeyourownneuralnetwork (https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
+  * Copyright makeyourownneuralnetwork (https://github.com/makeyourownneuralnetwork)
+  * Licensed under GNU General Public License v2.0 (https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork/blob/master/LICENSE)
+  */
 from neural_network.neural_network import NeuralNetwork
 import numpy
 
