@@ -13,7 +13,7 @@ App zur automatischen Erkennung von Ziffern auf Bildern.
 
 ### Frontend
 
-1. In das backend-Verzeichnis des geklonten Repositorys navigieren
+1. In das frontend-Verzeichnis des geklonten Repositorys navigieren
 2. Flutter-Umgebung aufsetzen
 3. `flutter pub get` ausführen
 4. `flutter run` nach dem Starten des Backends ausführen, um App auf einem verknüpften Gerät zu starten
