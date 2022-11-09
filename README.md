@@ -18,13 +18,14 @@ App which recognizes handwritten numbers on images.
 3. Run `flutter pub get`
 4. Run `flutter run` after starting the backend to execute application on an attached device
 
-## Inspired By
-
-<a href="https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork">makeyourownneuralnetwork</a>
-
 ## Used Software
 
 <table>
+  <tr>
+    <td><a href="https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork">makeyourownneuralnetwork</a></td>
+    <td>by <a href="https://github.com/makeyourownneuralnetwork">makeyourownneuralnetwork</a></td>
+    <td>licensed under <a href="https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork/blob/master/LICENSE">GNU General Public License v2.0</a>
+  </tr>
   <tr>
     <td><a href="https://github.com/pallets/flask">Flask</a></td>
     <td>by <a href="https://github.com/pallets">Pallets</a></td>
