@@ -18,7 +18,7 @@ App zur automatischen Erkennung von Ziffern auf Bildern.
 3. `flutter pub get` ausführen
 4. `flutter run` nach dem Starten des Backends ausführen, um App auf einem verknüpften Gerät zu starten
 
-## Used Software
+## Verwendete Software
 
 <table>
   <tr>
