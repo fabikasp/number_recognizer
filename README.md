@@ -2,7 +2,7 @@
 
 App zur automatischen Erkennung von Ziffern auf Bildern.
 
-## Installation
+## Ausführung
 
 ### Backend
 
